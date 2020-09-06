@@ -9,4 +9,6 @@ gem "database_cleaner"
 gem 'rest-client'
 gem "pry"
 gem "require_all"
+gem "tty-prompt"
+gem "tty-box"
 gem 'faker'
